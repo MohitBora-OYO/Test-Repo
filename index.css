@@ -4,3 +4,9 @@
     font-size: larger;
     background-color: seagreen;
 }
+.madhavKaContainer{
+
+    border: 5px solid black;
+    width: fit-content;
+    box-shadow: 5px 5px 5px gray;
+}
